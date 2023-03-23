@@ -6,6 +6,7 @@ function App() {
   return (
     <div>
       <Sidebar/>
+      <h2>Hello</h2>
     </div>
   );
 }
