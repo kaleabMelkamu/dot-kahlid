@@ -7,6 +7,7 @@ function App() {
     <div>
       <Sidebar/>
       <h2>Hello</h2>
+      <h5>This is us</h5>
     </div>
   );
 }
