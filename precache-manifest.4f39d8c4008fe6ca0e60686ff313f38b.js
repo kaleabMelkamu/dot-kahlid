@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "9475303aa2bbc1a027d9",
+    "revision": "ba35456f5af2392549c6",
     "url": "/dot-kahlid/static/css/main.22ff98c2.chunk.css"
   },
   {
-    "revision": "9475303aa2bbc1a027d9",
-    "url": "/dot-kahlid/static/js/main.9475303a.chunk.js"
+    "revision": "ba35456f5af2392549c6",
+    "url": "/dot-kahlid/static/js/main.ba35456f.chunk.js"
   },
   {
     "revision": "3c11774c00c8fe3168dd",
@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/dot-kahlid/static/media/logo.06e73328.svg"
   },
   {
-    "revision": "617e879895bc99afdda9c94f62163b6a",
+    "revision": "c016da35fe304421a573269dd9a6532c",
     "url": "/dot-kahlid/index.html"
   }
 ];
