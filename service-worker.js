@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/dot-kahlid/precache-manifest.4f39d8c4008fe6ca0e60686ff313f38b.js"
+  "/dot-kahlid/precache-manifest.d68eb52779a2e2f6c752431f4039690c.js"
 );
 
 workbox.clientsClaim();
