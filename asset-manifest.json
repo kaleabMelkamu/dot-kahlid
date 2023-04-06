@@ -1,7 +1,7 @@
 {
-  "main.css": "/dot-kahlid/static/css/main.22ff98c2.chunk.css",
-  "main.js": "/dot-kahlid/static/js/main.ce27e563.chunk.js",
-  "main.js.map": "/dot-kahlid/static/js/main.ce27e563.chunk.js.map",
+  "main.css": "/dot-kahlid/static/css/main.59e9d5c4.chunk.css",
+  "main.js": "/dot-kahlid/static/js/main.495ad4e2.chunk.js",
+  "main.js.map": "/dot-kahlid/static/js/main.495ad4e2.chunk.js.map",
   "static/js/1.3c11774c.chunk.js": "/dot-kahlid/static/js/1.3c11774c.chunk.js",
   "static/js/1.3c11774c.chunk.js.map": "/dot-kahlid/static/js/1.3c11774c.chunk.js.map",
   "static/js/2.ff813772.chunk.js": "/dot-kahlid/static/js/2.ff813772.chunk.js",
@@ -9,8 +9,8 @@
   "runtime~main.js": "/dot-kahlid/static/js/runtime~main.1e7228d6.js",
   "runtime~main.js.map": "/dot-kahlid/static/js/runtime~main.1e7228d6.js.map",
   "static/media/logo.svg": "/dot-kahlid/static/media/logo.06e73328.svg",
-  "static/css/main.22ff98c2.chunk.css.map": "/dot-kahlid/static/css/main.22ff98c2.chunk.css.map",
+  "static/css/main.59e9d5c4.chunk.css.map": "/dot-kahlid/static/css/main.59e9d5c4.chunk.css.map",
   "index.html": "/dot-kahlid/index.html",
-  "precache-manifest.ce05e5c2ae8624d57713fa7298b9c5fa.js": "/dot-kahlid/precache-manifest.ce05e5c2ae8624d57713fa7298b9c5fa.js",
+  "precache-manifest.176cb3d9df751530786899c403ecba0e.js": "/dot-kahlid/precache-manifest.176cb3d9df751530786899c403ecba0e.js",
   "service-worker.js": "/dot-kahlid/service-worker.js"
 }
