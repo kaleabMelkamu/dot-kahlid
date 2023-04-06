@@ -6,8 +6,8 @@ function App() {
   return (
     <div>
       <Sidebar/>
-      <h2>Hello</h2>
-      <h5>This is us</h5>
+      <h2>Dot ET-blogs</h2>
+      <h5>Latest Blogs</h5>
     </div>
   );
 }
